@@ -160,6 +160,7 @@ $ curl http://localhost:8080
     <h1>환경 구축 및 실습 완료</h1>
 </body>
 </html>
+<img width="882" height="497" alt="1" src="https://github.com/user-attachments/assets/c6a517e3-825e-4c55-9900-b1b0ade9554d" />
 
 ---
 
