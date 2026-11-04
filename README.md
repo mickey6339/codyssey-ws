@@ -70,6 +70,8 @@ To https://github.com/mickey6339/codyssey-ws.git
 branch 'main' set up to track 'origin/main'.
 
 ---
+git, git hub 와 vs code
+<img width="370" height="493" alt="연동" src="https://github.com/user-attachments/assets/bcacf8ef-f419-48b8-915c-676dabf58373" />
 
 ## 4. Docker 기본 환경 및 Hello-World 실습 (평가 항목 #3, #4, #5)
 
